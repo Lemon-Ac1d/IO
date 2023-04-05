@@ -1,0 +1,1 @@
+{"name":"Local: 850_Dijkstra求最短路II","url":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\850_Dijkstra求最短路II.cpp","tests":[{"id":1674045437487,"input":"3 3\n1 2 2\n2 3 1\n1 3 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\850_Dijkstra求最短路II.cpp","group":"local","local":true}

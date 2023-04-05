@@ -1,0 +1,1 @@
+{"name":"Local: P1032","url":"d:\\Desktop\\oi\\luogu\\1-7\\P1032.cpp","tests":[{"id":1674107867856,"input":"5 6\n###=##\n#.W.##\n#.####\n#.@W##\n######","output":"3"},{"id":1674111755123,"input":"3 5\nA#@A=\n.#.#.\n.....","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\luogu\\1-7\\P1032.cpp","group":"local","local":true}

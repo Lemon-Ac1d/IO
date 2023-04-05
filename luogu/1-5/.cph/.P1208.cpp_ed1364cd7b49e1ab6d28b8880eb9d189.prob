@@ -1,0 +1,1 @@
+{"name":"Local: P1208","url":"d:\\Desktop\\io\\luogu\\1-5\\P1208.cpp","tests":[{"id":1667375552314,"input":"100 5\n5 20\n9 40\n3 10\n8 80\n6 30","output":"630"},{"id":1667376809843,"input":"0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\io\\luogu\\1-5\\P1208.cpp","group":"local","local":true}

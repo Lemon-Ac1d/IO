@@ -1,0 +1,1 @@
+{"name":"Local: 795_前缀和","url":"d:\\Desktop\\oi\\acwing\\1基础算法\\795_前缀和.cpp","tests":[{"id":1673502640819,"input":"5 3\n2 1 3 6 4\n1 2\n1 3\n2 4","output":"3\n6\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\1基础算法\\795_前缀和.cpp","group":"local","local":true}

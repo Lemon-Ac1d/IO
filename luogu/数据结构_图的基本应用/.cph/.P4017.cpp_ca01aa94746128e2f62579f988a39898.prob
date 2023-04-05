@@ -1,0 +1,1 @@
+{"name":"Local: P4017","url":"d:\\Desktop\\oi\\luogu\\数据结构_图的基本应用\\P4017.cpp","tests":[{"id":1675266362659,"input":"5 7\n1 2\n1 3\n2 3\n3 5\n2 5\n4 5\n3 4","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\luogu\\数据结构_图的基本应用\\P4017.cpp","group":"local","local":true}

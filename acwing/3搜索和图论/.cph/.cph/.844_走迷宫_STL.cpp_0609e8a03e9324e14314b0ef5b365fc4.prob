@@ -1,0 +1,1 @@
+{"name":"Local: 844_走迷宫_STL","url":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\844_走迷宫_STL.cpp","tests":[{"id":1673888862231,"input":"5 5\n0 1 0 0 0\n0 1 0 1 0\n0 0 0 0 0\n0 1 1 1 0\n0 0 0 1 0","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\844_走迷宫_STL.cpp","group":"local","local":true}

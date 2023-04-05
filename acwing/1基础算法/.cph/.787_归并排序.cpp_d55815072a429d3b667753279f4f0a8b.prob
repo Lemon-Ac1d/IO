@@ -1,0 +1,1 @@
+{"name":"Local: 787_归并排序","url":"d:\\Desktop\\oi\\acwing\\1基础算法\\787_归并排序.cpp","tests":[{"id":1673463412412,"input":"5\n3 1 2 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\1基础算法\\787_归并排序.cpp","group":"local","local":true}

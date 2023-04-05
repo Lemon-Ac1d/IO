@@ -1,0 +1,1 @@
+{"name":"Local: 827_双链表","url":"d:\\Desktop\\oi\\acwing\\2数据结构\\827_双链表.cpp","tests":[{"id":1673796596984,"input":"10\nR 7\nD 1\nL 3\nIL 2 10\nD 3\nIL 2 7\nL 8\nR 9\nIL 4 7\nIR 2 2","output":"8 7 7 3 2 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\2数据结构\\827_双链表.cpp","group":"local","local":true}

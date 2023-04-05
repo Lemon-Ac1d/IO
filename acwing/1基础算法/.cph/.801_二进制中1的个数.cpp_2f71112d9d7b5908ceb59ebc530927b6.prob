@@ -1,0 +1,1 @@
+{"name":"Local: 801_二进制中1的个数","url":"d:\\Desktop\\oi\\acwing\\1基础算法\\801_二进制中1的个数.cpp","tests":[{"id":1673538493112,"input":"5\n1 2 3 4 5","output":"1 1 2 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\1基础算法\\801_二进制中1的个数.cpp","group":"local","local":true}

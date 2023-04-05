@@ -1,0 +1,1 @@
+{"name":"Local: 861_二分图的最大匹配","url":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\861_二分图的最大匹配.cpp","tests":[{"id":1674220745050,"input":"2 2 4\n1 1\n1 2\n2 1\n2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\861_二分图的最大匹配.cpp","group":"local","local":true}

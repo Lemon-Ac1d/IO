@@ -1,0 +1,1 @@
+{"name":"Local: 859_Kruskal算法求最小生成树","url":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\859_Kruskal算法求最小生成树.cpp","tests":[{"id":1674217979734,"input":"4 5\n1 2 1\n1 3 2\n1 4 3\n2 3 2\n3 4 4","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\3搜索和图论\\.cph\\859_Kruskal算法求最小生成树.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 多重背包问题1","url":"d:\\Desktop\\oi\\acwing\\5动态规划\\多重背包问题1.cpp","tests":[{"id":1677378815371,"input":"4 5\n1 2 3\n2 4 1\n3 4 3\n4 5 2","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\5动态规划\\多重背包问题1.cpp","group":"local","local":true}

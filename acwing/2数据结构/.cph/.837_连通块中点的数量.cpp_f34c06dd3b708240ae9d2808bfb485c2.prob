@@ -1,0 +1,1 @@
+{"name":"Local: 837_连通块中点的数量","url":"d:\\Desktop\\oi\\acwing\\2数据结构\\837_连通块中点的数量.cpp","tests":[{"id":1673856727005,"input":"5 5\nC 1 2\nQ1 1 2\nQ2 1\nC 2 5\nQ2 5","output":"Yes\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\oi\\acwing\\2数据结构\\837_连通块中点的数量.cpp","group":"local","local":true}
